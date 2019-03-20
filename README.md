@@ -37,11 +37,11 @@ This system allows you to do that. You can take a Mechanical Turk worker and tre
   - all links to and from this server include the participants unique id
 - include multiple steps, surveys, etc. 
   - Since the id is included in all links, it's easy to track participants across services and join all data together during data analysis. Eg:
-  - first send them to a survey tool (like Survey Monkey or Qualtrics)
-  - then to the experiment's task
-  - then halfway through send them to another survey
-  - then continue the experiment task
-  - then return to this server to get their completion code and send them back to Amazon's system to get paid.  
+    - first send them to a survey tool (like Survey Monkey or Qualtrics)
+    - then to the experiment's task
+    - then halfway through send them to another survey
+    - then continue the experiment task
+    - then return to this server to get their completion code and send them back to Amazon's system to get paid.  
 - participants can be given a time-limit
    - eg., if they don't finish the experiment in 2 hours, they won't be paid, and their participant id and other tokens expire
 - guarantee participation: 
@@ -58,7 +58,7 @@ TODO: I need to create a how-to here.
 
 If there is anyone who wishes to use this software, please open an issue above and I'll fill out the instructions with a walkthrough of how to change the settings.
 
-For now, if you want to explore, the entry point is the `-main` function on line 543 of exp_condition_web.clj file.
+For now, if you want to explore, the entry point is the `-main` function on [here in the exp_condition_web.clj](https://github.com/cpoile/TurkTurk/blob/515b6bfb7f4bba1a1bfded09dff69a948ecdd659/src/exp_condition/exp_condition_web.clj#L543) file.
 
 ## Published in
 
