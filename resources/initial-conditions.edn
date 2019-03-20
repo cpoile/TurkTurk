@@ -1,0 +1,148 @@
+{:experiment-session "f2015_powresp"  ;; = exp4,5,6
+
+ :conditions
+ [
+  {:condition "ctr-a"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-ctr-a"}
+
+  {:condition "ctr-b"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-ctr-b"}
+  
+  {:condition "td-a"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-td-a"}
+
+  {:condition "td-b"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-td-b"}
+
+  {:condition "rp-a"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-rp-a"}
+
+  {:condition "rp-b"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-rp-b"}
+  
+  {:condition "td-rp-a"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-td-rp-a"}
+
+  {:condition "td-rp-b"
+   :count 0
+   :participants #{}
+   :site "//fluidsurveys.usask.ca/s/f2015-td-rp-b"}]}
+
+;; For 2014 sessions
+;;
+;{:experiment-session "s2014_sess4"  ;; = exp4,5,6
+;
+; :conditions
+;                     [
+;                      {:condition "td-las-post"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-tdlaspo"}
+;
+;                      {:condition "td-las-pre"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-tdlaspr"}
+;
+;                      {:condition "dg-las-post"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-dglaspo"}
+;
+;                      {:condition "dg-las-pre"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-dglaspr"}
+;
+;                      {:condition "td-baseline"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-tdba"}
+;
+;                      {:condition "td-post"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-tdpo"}
+;
+;                      {:condition "td-pre"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-tdpr"}
+;
+;                      {:condition "dg-post"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-dgpo"}
+;
+;                      {:condition "dg-pre"
+;                       :count 0
+;                       :participants #{}
+;                       :site "//fluidsurveys.usask.ca/s/s2014-4-dgpr"}]}
+
+;; old sess3:
+;; {:experiment-session "s2014_sess1"  ;; = exp3
+
+;;  ;; :td-sp-las-post
+;;  ;; {:count 0
+;;  ;;  :participants #{}
+;;  ;;  :site "//fluidsurveys.usask.ca/s/s2014-1-tdsplaspo"}
+
+;;  ;; :td-sp-las-pre
+;;  ;; {:count 0
+;;  ;;  :participants #{}
+;;  ;;  :site "//fluidsurveys.usask.ca/s/s2014-1-tdsplaspr"}
+
+;;  ;; :dg-sp-las-post
+;;  ;; {:count 0
+;;  ;;  :participants #{}
+;;  ;;  :site "//fluidsurveys.usask.ca/s/s2014-1-dgsplaspo"}
+
+;;  ;; :dg-sp-las-pre
+;;  ;; {:count 0
+;;  ;;  :participants #{}
+;;  ;;  :site "//fluidsurveys.usask.ca/s/s2014-1-dgsplaspr"}
+
+;;  :conditions
+;;  [{:condition "td-distraction"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-tddist"}
+
+;;   {:condition "td-baseline"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-tdbase"}
+
+;;   {:condition "td-post"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-tdpo"}
+
+;;   {:condition "td-pre"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-tdpr"}
+
+;;   {:condition "dg-post"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-dgpo"}
+
+;;   {:condition "dg-pre"
+;;    :count 0
+;;    :participants #{}
+;;    :site "//fluidsurveys.usask.ca/s/s2014-1-dgpr"}]}

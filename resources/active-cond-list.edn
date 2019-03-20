@@ -1,0 +1,22 @@
+;; f2015
+#{"ctr-a"
+  "ctr-b"
+  "td-a"
+  "td-b"
+  "rp-a"
+  "rp-b"
+  "td-rp-a"
+  "td-rp-b"
+  }
+
+;; s2014
+;#{"dg-pre"
+;  "dg-post"
+;  "td-pre"
+;  "td-post"
+;  "td-baseline"
+;  "dg-las-pre"
+;  "dg-las-post"
+;  "td-las-pre"
+;  "td-las-post"
+;  }

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetAssignmentsForHITResponse>
+  <OperationRequest>
+    <RequestId>e86e0162-e10f-4732-aea7-6da756985800</RequestId>
+  </OperationRequest>
+  <GetAssignmentsForHITResult>
+    <Request>
+      <IsValid>True</IsValid>
+    </Request>
+    <NumResults>1</NumResults>
+    <TotalNumResults>1</TotalNumResults>
+    <PageNumber>1</PageNumber>
+    <Assignment>
+      <AssignmentId>2UG2L92HECWAG8JD9E3F3CP5MKXIHQ</AssignmentId>
+      <WorkerId>A104O444JWHST6</WorkerId>
+      <HITId>20KD21O3W5XHAU54DKTK1EPL6TLGA5</HITId>
+      <AssignmentStatus>Submitted</AssignmentStatus>
+      <AutoApprovalTime>2014-03-02T22:37:56Z</AutoApprovalTime>
+      <AcceptTime>2014-02-23T22:23:57Z</AcceptTime>
+      <SubmitTime>2014-02-23T22:37:56Z</SubmitTime>
+      <Answer>
+        ....
+      </Answer>
+    </Assignment>
+  </GetAssignmentsForHITResult>
+</GetAssignmentsForHITResponse>
+nil
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionFormAnswers xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionFormAnswers.xsd">
+  <Answer>
+    <QuestionIdentifier>Q2age</QuestionIdentifier>
+    <FreeText>530a7880e4b03378adebe9bc</FreeText>
+  </Answer>
+</QuestionFormAnswers>

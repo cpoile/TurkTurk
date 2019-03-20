@@ -1,0 +1,15 @@
+pom.xml
+*jar
+.nrepl-port
+/classes/
+/.lein-deps-sum
+/.lein-failures
+/.lein-env
+/checkouts
+/.env
+/target
+/mturk.properties
+/.idea/
+.lein-repl-history
+*.iml
+*.restclient
